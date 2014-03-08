@@ -6,9 +6,9 @@ ApiDoc is an Open Source PHP Code that allows developers to easily create a Docu
 
 Setup
 ====
-* copy `apidoc` folder to root of your project.
+* Copy `apidoc` folder to root of your project.
 * Go to this url `http://<YourWebsite>/apidoc`
-
+* Enjoy with your project API Document.
 
 
 
