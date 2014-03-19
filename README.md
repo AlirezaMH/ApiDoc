@@ -1,7 +1,7 @@
 ApiDoc
 ======
 
-ApiDoc is an Open Source PHP Code that allows developers to easily create a Document of all Classes, Methods and Arguments of a project.
+ApiDoc is an open source PHP code that allows developers to easily create a document of all Classes, Methods and Arguments of a project.
 
 
 Instructions
